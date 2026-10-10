@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: MarketHouse
+## Notes: MarketHouse addon skeleton
+## Version: 0.1.0
+## SavedVariables: MarketHouseDB
+
+MarketHouse.lua
